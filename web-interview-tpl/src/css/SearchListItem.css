@@ -1,0 +1,19 @@
+.SearchListItem{
+    width: 320px;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: row;
+    border: 1px solid black;
+    font-size: 12px;
+}
+
+.SearchListItem img{
+    width: 60px;
+    height: 40px;
+}
+
+.SearchListItem .Text p{
+
+    padding-left : 5px;
+}

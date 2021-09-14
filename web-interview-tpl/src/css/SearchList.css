@@ -1,0 +1,7 @@
+.SearchList{
+    position:relative;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-direction: column;
+}
